@@ -1,11 +1,9 @@
-node_modules
 .git
-*.md
-!README.md
-src
-public
+.vscode
+.github
 *.test.ts
 *.test.tsx
 vitest.config.ts
-.vscode
-.github
+*.md
+!README.md
+
